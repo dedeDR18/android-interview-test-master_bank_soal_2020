@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps">Maps</string>
+    <string name="toast_input_country_name">Masukan nama negara dalam bahasa inggris</string>
+    <string name="country_name">Nama negara: </string>
+    <string name="country_capital">Ibukota: </string>
+    <string name="country_population">Jumlah penduduk: </string>
+    <string name="country_phondcode">Kode telepon: </string>
+    <string name="data_not_found">Data tidak ditemukan</string>
+</resources>
